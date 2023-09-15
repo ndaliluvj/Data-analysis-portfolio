@@ -8,7 +8,7 @@ As a very empathetic person ,passionate about providing solutions to the needs o
 I have always been facinated with patterns aand trends, tried to understand them,look at how they are connected . I took a 6 month course with Hertechtrail on Data analytics. i started with the starter class ( 3 months) and completed th course with my capstone project which was analysis of the fictional parcy and porch paper company using SQL queries to retrieve data from database and dashboard visualization of the data with power Bi.
 For the pro class(3 months),my capstone project was analysis and visualization of draky supremarket using python.
 I am proficient in analysing and visualizing with excel and power Bi,SQL With Progresql,analyse and visualize with python.
-I am open to an internship role where i can put my knowledge to practice, work with real time dataand improve my skill. 
+I am open to an internship role where i can put my knowledge to practice, work with real time data and improve on my skill. 
 
 
 
